@@ -4,6 +4,10 @@ debian-timeline (27) UNRELEASED; urgency=low
   * Add "Debian Bug #730000 reported".
   * "Add Paris mini-DebConf announced".
   * Add "Blends web sentinel becomes an official service"
+  * Add events from Paul Wise (pabs):
+    - ia64 architecture retired.
+    - Bug squashing party in Monmouth, United Kingdom.
+    - Continuous Integration service available.
 
  -- Chris Lamb <lamby@debian.org>  Mon, 11 Nov 2013 11:54:52 +0000
 
