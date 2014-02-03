@@ -1,4 +1,4 @@
-debian-timeline (27) UNRELEASED; urgency=low
+debian-timeline (27) unstable; urgency=low
 
   * Add bootstrap service. Thanks Pabs :)
   * Add "Debian Bug #730000 reported".
@@ -9,7 +9,7 @@ debian-timeline (27) UNRELEASED; urgency=low
     - Bug squashing party in Monmouth, United Kingdom.
     - Continuous Integration service available.
 
- -- Chris Lamb <lamby@debian.org>  Mon, 11 Nov 2013 11:54:52 +0000
+ -- Chris Lamb <lamby@debian.org>  Mon, 03 Feb 2014 08:30:15 +0000
 
 debian-timeline (26) unstable; urgency=low
 
