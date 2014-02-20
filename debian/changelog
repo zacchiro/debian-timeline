@@ -1,8 +1,8 @@
-debian-timeline (28) UNRELEASED; urgency=low
+debian-timeline (28) unstable; urgency=low
 
   * Correct year for DPL 2012 elections. Thanks to Richard Warburton.
 
- -- Chris Lamb <lamby@debian.org>  Thu, 20 Feb 2014 21:25:44 +0000
+ -- Chris Lamb <lamby@debian.org>  Thu, 20 Feb 2014 21:26:09 +0000
 
 debian-timeline (27) unstable; urgency=low
 
