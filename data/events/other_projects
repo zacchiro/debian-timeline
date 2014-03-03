@@ -8,7 +8,7 @@ Source: http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html
 
 Title: FSF sponsorship of Debian
 Date: Apr 30 1996
-Source: http://lists.debian.org/debian-announce/1996/msg00008.html
+Source: https://lists.debian.org/debian-announce/1996/msg00008.html
 
 Title: Incorporation of SPI completed
 Date: Jun 06 1997
@@ -19,11 +19,11 @@ Source: http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html
 
 Title: Unix-on-Intel players work on a common binary format
 Date: Oct 10 1997
-Source: http://www.us.debian.org/News/1997/common_library
+Source: https://www.debian.org/News/1997/common_library
 
 Title: Debian donates $1000 to Gnome Project
 Date: Nov 30 1997
-Source: http://www.us.debian.org/News/1997/19971130
+Source: https://www.debian.org/News/1997/19971130
 
 Title: Linux 2.2 released
 Date: Jan 26 1999
@@ -31,11 +31,11 @@ Source: http://ftp.cdut.edu.cn/pub2/linux/kernel/history/Master.html
 
 Title: Non-profit status approved for SPI
 Date: Jun 02 1999
-Source: http://lists.debian.org/debian-announce/1999/msg00009.html
+Source: https://lists.debian.org/debian-announce/1999/msg00009.html
 
 Title: Debian joins Gnome Foundation Advisory Board
 Date: Nov 21 2000
-Source: http://lists.debian.org/debian-announce/2000/msg00013.html
+Source: https://lists.debian.org/debian-announce/2000/msg00013.html
 
 Title: Debian wins "Most Deserving of $2000" award
 Date: Feb 07 2000
@@ -49,7 +49,7 @@ Date: Jan 19 2003
 
 Title: Linux 2.6 released
 Date: Dec 18 2003
-Source: http://en.wikipedia.org/wiki/History_of_the_Linux_kernel#Kernel
+Source: https://en.wikipedia.org/wiki/History_of_the_Linux_kernel#Kernel
 
 Title: First Ubuntu release ("Warty")
 Date: Oct 20 2004
@@ -61,4 +61,4 @@ Source: http://blog.linuxmint.com/?p=1527
 
 Title: Debian wins two Linux New Media Awards
 Date: Mar 4 2011
-Source: http://www.debian.org/News/2011/20110304
+Source: https://www.debian.org/News/2011/20110304

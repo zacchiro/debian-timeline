@@ -31,7 +31,7 @@ Source: http://debconf4.debconf.org/
 Title: Vancouver release team meeting
 Start-Date: Mar 05 2005
 End-Date: Mar 06 2005
-Source: http://lists.debian.org/debian-devel-announce/2005/03/msg00012.html
+Source: https://lists.debian.org/debian-devel-announce/2005/03/msg00012.html
 
 Title: DebCamp5, Helsinki, Finland
 Start-Date: Jul 02 2005
@@ -64,7 +64,7 @@ Source: http://debconf6.debconf.org/
 Title: MiniDebConf Colombia 2006
 Start-Date: Aug 19 2006
 End-Date: Aug 20 2006
-Source: http://lists.debian.org/debian-devel-announce/2006/08/msg00002.html
+Source: https://lists.debian.org/debian-devel-announce/2006/08/msg00002.html
 
 Title: Debian Miniconf 6 at LCA2007
 Start-Date: Jan 15 2007
@@ -93,7 +93,7 @@ Source: https://debconf7.debconf.org/
 Title: MiniDebConf Venezuela 2007
 Start-Date: Nov 21 2007
 End-Date: Nov 23 2007
-Source: http://lists.debian.org/debian-devel-announce/2007/11/msg00003.html
+Source: https://lists.debian.org/debian-devel-announce/2007/11/msg00003.html
 
 Title: Debian Miniconf 7 at LCA2008
 Date: Jan 28 2008
@@ -130,27 +130,27 @@ Source: http://debconf9.debconf.org/
 Title: FTPMaster meeting, Essen, Germany
 Start-Date: Oct 25 2009
 End-Date: Nov 1 2009
-Source: http://lists.debian.org/debian-devel-announce/2009/11/msg00001.html
+Source: https://lists.debian.org/debian-devel-announce/2009/11/msg00001.html
 
 Title: NM meeting
 Start-Date: Nov 28 2009
 End-Date: Nov 29 2009
-Source: http://lists.debian.org/debian-devel-announce/2009/11/msg00005.html
+Source: https://lists.debian.org/debian-devel-announce/2009/11/msg00005.html
 
 Title: FOSDEM 2010
 Start-Date: Feb 6 2010
 End-Date: Feb 7 2010
-Source: http://lists.debian.org/debian-events-eu/2009/10/msg00001.html
+Source: https://lists.debian.org/debian-events-eu/2009/10/msg00001.html
 
 Title: Thailand MiniDebCamp 2010
 Start-Date: Mar 13 2010
 End-Date: Mar 19 2010
-Source: http://lists.debian.org/debian-devel-announce/2010/01/msg00004.html
+Source: https://lists.debian.org/debian-devel-announce/2010/01/msg00004.html
 
 Title: Mini DebConf in Berlin, Germany
 Start-Date: Jun 10 2010
 End-Date: Jun 11 2010
-Source: http://lists.debian.org/debian-devel-announce/2010/04/msg00012.html
+Source: https://lists.debian.org/debian-devel-announce/2010/04/msg00012.html
 
 Title: DebCamp10, New York City, USA
 Start-Date: July 25 2010
@@ -165,12 +165,12 @@ Source: http://debconf10.debconf.org/
 Title: DSA meeting
 Start-Date: Sep 3 2010
 End-Date: Sep 5 2010
-Source: http://lists.debian.org/debian-project/2010/09/msg00027.html
+Source: https://lists.debian.org/debian-project/2010/09/msg00027.html
 
 Title: FOSDEM 2011
 Start-Date: Feb 5 2011
 End-Date: Feb 6 2011
-Source: http://www.fosdem.org/2011/
+Source: https://www.fosdem.org/2011/
 
 Title: DebCamp11, Banja Luka, Bosnia and Herzegovina
 Start-Date: Jul 17 2011
@@ -185,7 +185,7 @@ Source: http://debconf11.debconf.org/
 Title: FOSDEM 2012
 Start-Date: Feb 4 2012
 End-Date: Feb 5 2012
-Source: http://www.fosdem.org/2012/
+Source: https://www.fosdem.org/2012/
 
 Title: DebCamp12, Managua, Nicaragua
 Start-Date: Jul 1 2012
@@ -200,7 +200,7 @@ Source: http://debconf12.debconf.org/
 Title: Mini-DebConf, Hualien, Taiwan
 Start-Date: Jun 8 2012
 End-Date: Jun 10 2012
-Source: http://wiki.debian.org/DebianTaiwan/MiniDebConf2012
+Source: https://wiki.debian.org/DebianTaiwan/MiniDebConf2012
 
 Title: Mini-DebConf, Paris, France
 Start-Date: Nov 24 2012
@@ -210,12 +210,12 @@ Source: http://fr2012.mini.debconf.org/
 Title: Mini-DebConf, Calicut, India
 Start-Date: Feb 22 2013
 End-Date: Feb 24 2013
-Source: http://wiki.debian.org/DebianIndia/MiniDebConf2013/Calicut
+Source: https://wiki.debian.org/DebianIndia/MiniDebConf2013/Calicut
 
 Title: Debian/Ubuntu Community Conference Italia 2013
 Start-Date: Jun 1 2013
 End-Date: Jun 2 2013
-Source: http://www.debian.org/events/2013/0601-ducc-it
+Source: https://www.debian.org/events/2013/0601-ducc-it
 
 Title: DebConf13, Le Camp, Switzerland
 Start-Date: Aug 11 2013
@@ -225,27 +225,27 @@ Source: http://debconf13.debconf.org/
 Title: Mini-DebConf, Wulai, Taiwan
 Start-Date: Nov 8 2013
 End-Date: Nov 11 2013
-Source: http://wiki.debian.org/DebianTaiwan/MiniDebConf2013
+Source: https://wiki.debian.org/DebianTaiwan/MiniDebConf2013
 
 Title: Mini-DebConf, Cambridge, United Kingdom
 Start-Date: Nov 14 2013
 End-Date: Nov 17 2013
-Source: http://wiki.debconf.org/wiki/Miniconf-UK/2013
+Source: https://wiki.debconf.org/wiki/Miniconf-UK/2013
 
 Title: Mini-DebConf, Paris, France
 Start-Date: Jan 18 2014
 End-Date: Jan 19 2014
-Source: http://wiki.debconf.org/wiki/Miniconf-Paris/2014
+Source: https://wiki.debconf.org/wiki/Miniconf-Paris/2014
 
 Title: Mini-DebConf, Phnom Penh, Cambodia
 Start-Date: Feb 28 2014
 End-Date: Mar 2 2014
-Source: http://wiki.debian.org/DebianCambodia/MiniDebConf2014
+Source: https://wiki.debian.org/DebianCambodia/MiniDebConf2014
 
 Title: Women Mini-DebConf, Barcelona, Spain
 Start-Date: Mar 15 2014
 End-Date: Mar 16 2014
-Source: http://wiki.debian.org/DebianWomen/Projects/MiniDebconf-Women/2014/
+Source: https://wiki.debian.org/DebianWomen/Projects/MiniDebconf-Women/2014/
 
 Title: DebConf14, Portland, USA
 Start-Date: Aug 23 2014
