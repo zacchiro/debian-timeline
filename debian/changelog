@@ -1,4 +1,4 @@
-debian-timeline (29) UNRELEASED; urgency=low
+debian-timeline (29) unstable; urgency=low
 
   * Apply updates from Paul Wise (pabs):
     - Bug squashing party (conova communications, Salzburg, Austria)
@@ -8,7 +8,7 @@ debian-timeline (29) UNRELEASED; urgency=low
     - squeeze and wheezy point releases
     - Switch from http to https and current addresses where possible
 
- -- Chris Lamb <lamby@debian.org>  Mon, 03 Mar 2014 12:22:19 +0000
+ -- Chris Lamb <lamby@debian.org>  Mon, 03 Mar 2014 12:23:18 +0000
 
 debian-timeline (28) unstable; urgency=low
 
