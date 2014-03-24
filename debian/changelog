@@ -1,3 +1,9 @@
+debian-timeline (30) UNRELEASED; urgency=low
+
+  * New git repo location.
+
+ -- Chris Lamb <lamby@debian.org>  Mon, 24 Mar 2014 13:53:20 +0000
+
 debian-timeline (29) unstable; urgency=low
 
   * Apply updates from Paul Wise (pabs):
