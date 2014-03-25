@@ -1,6 +1,7 @@
 debian-timeline (30) UNRELEASED; urgency=low
 
   * New git repo location.
+  * Add source for 0.93RC release. Thanks to Adam Baxter.
 
  -- Chris Lamb <lamby@debian.org>  Mon, 24 Mar 2014 13:53:20 +0000
 
