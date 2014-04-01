@@ -2,6 +2,11 @@ debian-timeline (30) UNRELEASED; urgency=low
 
   * New git repo location.
   * Add source for 0.93RC release. Thanks to Adam Baxter.
+  * Add events from Paul Wise:
+    - Bug squashing party (Cambridge, United Kingdom)
+    - First alpha of jessie's debian-installer released
+    - Xfce now the temporarily the default desktop environment
+    - DPL 2014 elections
 
  -- Chris Lamb <lamby@debian.org>  Mon, 24 Mar 2014 13:53:20 +0000
 
