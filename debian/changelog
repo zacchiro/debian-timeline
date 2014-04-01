@@ -1,4 +1,4 @@
-debian-timeline (30) UNRELEASED; urgency=low
+debian-timeline (30) unstable; urgency=low
 
   * New git repo location.
   * Add source for 0.93RC release. Thanks to Adam Baxter.
@@ -8,7 +8,7 @@ debian-timeline (30) UNRELEASED; urgency=low
     - Xfce now the temporarily the default desktop environment
     - DPL 2014 elections
 
- -- Chris Lamb <lamby@debian.org>  Mon, 24 Mar 2014 13:53:20 +0000
+ -- Chris Lamb <lamby@debian.org>  Tue, 01 Apr 2014 07:26:38 +0100
 
 debian-timeline (29) unstable; urgency=low
 
