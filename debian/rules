@@ -17,7 +17,7 @@ gh-pages: $(OUTPUT)
 	git branch -D $@
 	git checkout --orphan $@
 	echo timeline.debian.net > CNAME
-	rm -f .gitignore
+	rm -f .gitignore debian/ data/
 	cp -rv /usr/share/javascript/timeline_js media
 	cp -rv /usr/share/javascript/timeline_ajax media
 	git add --all .
