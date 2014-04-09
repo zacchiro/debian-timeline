@@ -14,10 +14,14 @@ xml/%.xml: data/%
 	./build.py $< >$@
 
 gh-pages: $(OUTPUT)
+	git branch -D $@
+	git checkout --orphan $@
 	rm -f .gitignore
 	cp -rv /usr/share/javascript/timeline_js media
 	cp -rv /usr/share/javascript/timeline_ajax media
 	git add --all .
-	git commit -m "Automatic build for $@"
+	git commit --allow-empty -m "Automatic build for $@"
+	git push -f origin $@
+	git checkout master
 
 .PHONY: gh-pages
