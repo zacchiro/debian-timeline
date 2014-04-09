@@ -17,7 +17,7 @@ gh-pages: $(OUTPUT)
 	rm -f .gitignore
 	cp -rv /usr/share/javascript/timeline_js media
 	cp -rv /usr/share/javascript/timeline_ajax media
-	git add -R .
+	git add --all .
 	git commit -m "Automatic build for $@"
 
 .PHONY: gh-pages
