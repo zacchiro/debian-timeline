@@ -12,3 +12,7 @@ override_dh_auto_build: $(OUTPUT)
 xml/%.xml: data/%
 	@mkdir -p xml
 	./build.py $< >$@
+
+gh-pages: $(OUTPUT)
+
+.PHONY: gh-pages
