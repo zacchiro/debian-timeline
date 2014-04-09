@@ -14,7 +14,7 @@ xml/%.xml: data/%
 	./build.py $< >$@
 
 gh-pages: $(OUTPUT)
-	git branch -D $@
+	git branch -D $@ || true
 	git checkout --orphan $@
 	echo timeline.debian.net > CNAME
 	rm -rf .gitignore debian/ data/
