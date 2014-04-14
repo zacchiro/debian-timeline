@@ -1,3 +1,10 @@
+debian-timeline (31) UNRELEASED; urgency=low
+
+  * Add from Paul Wise:
+    - "Bug squashing party (Bitraf, Oslo, Norway)"
+
+ -- Chris Lamb <lamby@debian.org>  Mon, 14 Apr 2014 11:17:26 +0100
+
 debian-timeline (30) unstable; urgency=low
 
   * New git repo location.
