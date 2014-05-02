@@ -2,6 +2,11 @@ debian-timeline (31) UNRELEASED; urgency=low
 
   * Add from Paul Wise:
     - "Bug squashing party (Bitraf, Oslo, Norway)"
+    - Debian 7 ("wheezy") updated (r5)
+    - Code of conduct General Resolution
+    - Long term support for Debian 6.0 ("wheezy") announced
+    - Mini-DebConf, Auckland, New Zealand
+    - sparc architecture retired
 
  -- Chris Lamb <lamby@debian.org>  Mon, 14 Apr 2014 11:17:26 +0100
 
