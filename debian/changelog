@@ -1,4 +1,4 @@
-debian-timeline (31) UNRELEASED; urgency=low
+debian-timeline (31) unstable; urgency=low
 
   * Add from Paul Wise:
     - "Bug squashing party (Bitraf, Oslo, Norway)"
@@ -10,7 +10,7 @@ debian-timeline (31) UNRELEASED; urgency=low
     - Fix the LTS hostname
     - Debian Bug #750000 reported by Holger Levsen
 
- -- Chris Lamb <lamby@debian.org>  Mon, 14 Apr 2014 11:17:26 +0100
+ -- Chris Lamb <lamby@debian.org>  Tue, 03 Jun 2014 17:41:48 +0100
 
 debian-timeline (30) unstable; urgency=low
 
