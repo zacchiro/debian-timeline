@@ -7,6 +7,8 @@ debian-timeline (31) UNRELEASED; urgency=low
     - Long term support for Debian 6.0 ("wheezy") announced
     - Mini-DebConf, Auckland, New Zealand
     - sparc architecture retired
+    - Fix the LTS hostname
+    - Debian Bug #750000 reported by Holger Levsen
 
  -- Chris Lamb <lamby@debian.org>  Mon, 14 Apr 2014 11:17:26 +0100
 
