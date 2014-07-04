@@ -1,6 +1,9 @@
 debian-timeline (32) UNRELEASED; urgency=low
 
   * Bump Standards-Version to 3.9.5.
+  * Add from Paul Wise:
+    - Contributors service was available last year
+    - alpha architecture was retired a long time ago
 
  -- Chris Lamb <lamby@debian.org>  Tue, 03 Jun 2014 17:44:00 +0100
 
