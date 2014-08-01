@@ -1,3 +1,10 @@
+debian-timeline (33) UNRELEASED; urgency=low
+
+  * Add from Paul Wise:
+    - Use the correct hostname for links to package changelogs.
+
+ -- Chris Lamb <lamby@debian.org>  Fri, 01 Aug 2014 13:46:41 +0100
+
 debian-timeline (32) unstable; urgency=low
 
   * Bump Standards-Version to 3.9.5.
