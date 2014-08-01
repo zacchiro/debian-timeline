@@ -24,5 +24,6 @@ gh-pages: $(OUTPUT)
 	git commit --allow-empty -m "Automatic build for $@"
 	git push -f origin $@
 	git checkout master
+	git branch -D $@
 
 .PHONY: gh-pages
