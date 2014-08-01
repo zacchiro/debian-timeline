@@ -1,10 +1,10 @@
-debian-timeline (33) UNRELEASED; urgency=low
+debian-timeline (33) unstable; urgency=low
 
   * Add from Paul Wise:
     - debmetrics service available.
     - Use the correct hostname for links to package changelogs.
 
- -- Chris Lamb <lamby@debian.org>  Fri, 01 Aug 2014 13:46:41 +0100
+ -- Chris Lamb <lamby@debian.org>  Fri, 01 Aug 2014 13:48:02 +0100
 
 debian-timeline (32) unstable; urgency=low
 
