@@ -1,3 +1,9 @@
+debian-timeline (35) UNRELEASED; urgency=low
+
+  * "arm64, ppc64el architectures added". Thanks to Paul Wise.
+
+ -- Chris Lamb <lamby@debian.org>  Mon, 01 Sep 2014 11:01:48 +0100
+
 debian-timeline (34) unstable; urgency=low
 
   * Add from Paul Wise, many thanks!
