@@ -1,3 +1,10 @@
+debian-timeline (36) UNRELEASED; urgency=medium
+
+  * Added from Paul Wise:
+    - Debian Bug #760000 reported by René Mayorga
+
+ -- Chris Lamb <lamby@debian.org>  Mon, 08 Sep 2014 12:14:41 +0100
+
 debian-timeline (35) unstable; urgency=low
 
   * "arm64, ppc64el architectures added". Thanks to Paul Wise.
