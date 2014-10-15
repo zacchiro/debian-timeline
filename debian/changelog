@@ -2,6 +2,10 @@ debian-timeline (36) UNRELEASED; urgency=medium
 
   * Added from Paul Wise:
     - Debian Bug #760000 reported by René Mayorga
+  * Added from Anndrei Popescu:
+    - Add first and second beta d-i release for jessie
+    - debian-policy version 3.9.6.0
+    - systemd default init for jessie
 
  -- Chris Lamb <lamby@debian.org>  Mon, 08 Sep 2014 12:14:41 +0100
 
