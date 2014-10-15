@@ -109,6 +109,10 @@ Title: Parallel booting enabled by default
 Date: May 21 2010
 Source: https://lists.debian.org/debian-devel-announce/2010/05/msg00009.html
 
+Title: systemd choosen as the default init for the Jessie release
+Date: Feb 11 2014
+Source: https://lists.debian.org/debian-devel-announce/2014/02/msg00005.html
+
 Title: Xfce now the temporarily the default desktop environment
 Date: Mar 19 2014
 Source: https://lists.debian.org/debian-devel-announce/2014/03/msg00009.html
