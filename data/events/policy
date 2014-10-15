@@ -69,3 +69,7 @@ Source: http://metadata.ftp-master.debian.org/changelogs/main/d/debian-policy/un
 Title: debian-policy 3.9.5.0
 Date: Oct 28 2013
 Source: http://metadata.ftp-master.debian.org/changelogs/main/d/debian-policy/unstable_changelog
+
+Title: debian-policy 3.9.6.0
+Date: Sep 17 2014
+Source: http://metadata.ftp-master.debian.org/changelogs/main/d/debian-policy/unstable_changelog
