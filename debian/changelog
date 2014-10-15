@@ -1,4 +1,4 @@
-debian-timeline (36) UNRELEASED; urgency=medium
+debian-timeline (36) unstable; urgency=medium
 
   * Added from Paul Wise:
     - Debian Bug #760000 reported by René Mayorga
@@ -7,7 +7,7 @@ debian-timeline (36) UNRELEASED; urgency=medium
     - debian-policy version 3.9.6.0
     - systemd default init for jessie
 
- -- Chris Lamb <lamby@debian.org>  Mon, 08 Sep 2014 12:14:41 +0100
+ -- Chris Lamb <lamby@debian.org>  Wed, 15 Oct 2014 22:19:23 +0100
 
 debian-timeline (35) unstable; urgency=low
 
