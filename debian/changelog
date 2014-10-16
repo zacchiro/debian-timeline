@@ -1,3 +1,10 @@
+debian-timeline (37) UNRELEASED; urgency=low
+
+  * Added from Ben Hutchings:
+    - Adrian von Bidder passed away in 2011.
+
+ -- Chris Lamb <lamby@debian.org>  Thu, 16 Oct 2014 02:53:21 +0100
+
 debian-timeline (36) unstable; urgency=medium
 
   * Added from Paul Wise:
